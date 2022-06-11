@@ -1,0 +1,879 @@
+{
+	"version": 3,
+	"status": "ok",
+	"data": {
+		"class": [
+		 {
+		   "course": "INFO 1217",
+		   "week": 1,
+		   "name": "Class Files",
+		   "path": "Excel\\INFO 1217\\Week 1\\Class Files\\MyFirstWebsite\\",
+		   "fileType": "Files",
+		   "type": "Code",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 1,
+		   "name": "Course Intro",
+		   "path": "Excel\\INFO 1217\\Week 1\\W1 course introduction OL 22S & notes - Video.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 1,
+		   "name": "Demo Part 1",
+		   "path": "https://www.fanshaweonline.ca/d2l/le/content/1326730/viewContent/11429080/View",
+		   "fileType": "Website",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 1,
+		   "name": "Demo Part 2",
+		   "path": "Excel\\INFO 1217\\Week 1\\Wk1 Demo Completion.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 1,
+		   "name": "Lecture - Intro to HTML",
+		   "path": "Excel\\INFO 1217\\Week 1\\W1 Introduction to HTML.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 1,
+		   "name": "Lecture - Intro to HTML Slides",
+		   "path": "Excel\\INFO 1217\\Week 1\\W1 Introduction to HTML.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 1,
+		   "name": "Quiz Intro",
+		   "path": "https://www.fanshaweonline.ca/d2l/le/content/1326730/viewContent/11236829/View",
+		   "fileType": "Website",
+		   "type": "External",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 1,
+		   "name": "W1 Course Intro",
+		   "path": "Excel\\INFO 1217\\Week 1\\W1 course introduction OL 22S FOL.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 2,
+		   "name": "Create Travel Spot Site",
+		   "path": "Excel\\INFO 1217\\Week 2\\video-5ad50294-2285-4d12-a5f2-85af8db11e17.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 2,
+		   "name": "Intro to CSS",
+		   "path": "Excel\\INFO 1217\\Week 2\\Intro to CSS.mp4",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 2,
+		   "name": "Intro to CSS Lecture",
+		   "path": "Excel\\INFO 1217\\Week 2\\Intro to CSS.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 2,
+		   "name": "Quiz 2",
+		   "path": "https://www.fanshaweonline.ca/d2l/le/content/1326730/viewContent/11236834/View",
+		   "fileType": "Website",
+		   "type": "External",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 2,
+		   "name": "W2c2 Demo",
+		   "path": "Excel\\INFO 1217\\Week 2\\W2c2 Demo.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 3,
+		   "name": "Div Tags pt. 1",
+		   "path": "Excel\\INFO 1217\\Week 3\\video-1b65c32a-ab28-461c-8ae9-dd729e9806ff.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 3,
+		   "name": "Div Tags pt. 2",
+		   "path": "Excel\\INFO 1217\\Week 3\\video-f075872e-8a6b-4fcb-8444-57dd12e62f37.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 4,
+		   "name": "HTML 5",
+		   "path": "Excel\\INFO 1217\\Week 4\\W4 HTML 5.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 4,
+		   "name": "HTML 5 Lecture",
+		   "path": "Excel\\INFO 1217\\Week 4\\HTML5 Lecture.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 4,
+		   "name": "HTML 5 Pt.1",
+		   "path": "Excel\\INFO 1217\\Week 4\\HTML5 pt1.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 4,
+		   "name": "HTML 5 Pt.2",
+		   "path": "Excel\\INFO 1217\\Week 4\\HTML5 pt2.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 4,
+		   "name": "Layout Examples",
+		   "path": "Excel\\INFO 1217\\Week 4\\layout_examples.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 4,
+		   "name": "Layout Examples Pt. 1",
+		   "path": "Excel\\INFO 1217\\Week 4\\Layouts Pt.1.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 4,
+		   "name": "Layout Examples Pt. 2",
+		   "path": "Excel\\INFO 1217\\Week 4\\Layouts Pt 2.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 5,
+		   "name": "Centred Layouts",
+		   "path": "Excel\\INFO 1217\\Week 5\\Centred Layouts.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 5,
+		   "name": "Centred Layouts Pt.2",
+		   "path": "Excel\\INFO 1217\\Week 5\\Centred Layouts Pt. 2.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 5,
+		   "name": "Lab 2 Solution",
+		   "path": "Excel\\INFO 1217\\Week 5\\video-32af75df-2fda-4b70-97dd-7c973da7cc92.mp4",
+		   "fileType": "Video",
+		   "type": "Review",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 6,
+		   "name": "CSS Positioning | Layout",
+		   "path": "Excel\\INFO 1217\\Week 6\\CSS Positioning - Layout Example.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 6,
+		   "name": "CSS Positioning | Toys",
+		   "path": "Excel\\INFO 1217\\Week 6\\CSS Positioning - Toys Example.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 6,
+		   "name": "Files",
+		   "path": "Excel\\INFO 1217\\Week 6\\Files\\",
+		   "fileType": "Files",
+		   "type": "Code",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 6,
+		   "name": "Intro to CSS - Positioning",
+		   "path": "Excel\\INFO 1217\\Week 6\\Intro to CSS - Positioning.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 6,
+		   "name": "Intro to CSS - Positioning Lecture",
+		   "path": "Excel\\INFO 1217\\Week 6\\Into to CSS Positioning.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 6,
+		   "name": "Layouts with Positioning pt.1",
+		   "path": "Excel\\INFO 1217\\Week 6\\Layouts with Positioning pt.1.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 6,
+		   "name": "Layouts with Positioning pt.2 + Z-index",
+		   "path": "Excel\\INFO 1217\\Week 6\\Layouts with Positioning pt. 2.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1217",
+		   "week": 6,
+		   "name": "Midterm Prep",
+		   "path": "Excel\\INFO 1217\\Week 6\\Midterm Prep.mp4",
+		   "fileType": "Video",
+		   "type": "Review",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 1,
+		   "name": "Class Files",
+		   "path": "Excel\\INFO 1234\\Week 1\\Class Files\\",
+		   "fileType": "Files",
+		   "type": "Code",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 1,
+		   "name": "Coding Example 1",
+		   "path": "Excel\\INFO 1234\\Week 1\\CodingExample01.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 1,
+		   "name": "Coding Example 2",
+		   "path": "Excel\\INFO 1234\\Week 1\\CodingExample02-Week1.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 1,
+		   "name": "Course Intro",
+		   "path": "Excel\\INFO 1234\\Week 1\\INFO1234 Introduction.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 1,
+		   "name": "Course Intro",
+		   "path": "Excel\\INFO 1234\\Week 1\\Week1Intro.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 1,
+		   "name": "JS 1",
+		   "path": "Excel\\INFO 1234\\Week 1\\INFO1234 Basic JavaScript1.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 1,
+		   "name": "JS 1",
+		   "path": "Excel\\INFO 1234\\Week 1\\BasicJavaScript1.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 1,
+		   "name": "JS 2",
+		   "path": "Excel\\INFO 1234\\Week 1\\INFO1234 Basic JavaScript2.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 1,
+		   "name": "JS 2",
+		   "path": "Excel\\INFO 1234\\Week 1\\BasicJavaScript2.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 1,
+		   "name": "JS 3",
+		   "path": "Excel\\INFO 1234\\Week 1\\INFO1234 Basic JavaScript3.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 1,
+		   "name": "JS 3",
+		   "path": "Excel\\INFO 1234\\Week 1\\BasicJavaScript3.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 1,
+		   "name": "JS 4",
+		   "path": "Excel\\INFO 1234\\Week 1\\INFO1234 Basic JavaScript4.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 1,
+		   "name": "JS 4",
+		   "path": "Excel\\INFO 1234\\Week 1\\BasicJavaScript4.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 2,
+		   "name": "Arrays and For Loops",
+		   "path": "Excel\\INFO 1234\\Week 2\\INFO1234 Arrays and For Loops.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 2,
+		   "name": "Code Example 1",
+		   "path": "Excel\\INFO 1234\\Week 2\\CodingExample01-Week2.mp4",
+		   "fileType": "Video",
+		   "type": "Code",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 2,
+		   "name": "Code Example 2",
+		   "path": "Excel\\INFO 1234\\Week 2\\CodingExample02-Week2.mp4",
+		   "fileType": "Video",
+		   "type": "Code",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 2,
+		   "name": "Code Example 3",
+		   "path": "Excel\\INFO 1234\\Week 2\\CodingExample03-Week2.mp4",
+		   "fileType": "Video",
+		   "type": "Code",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 2,
+		   "name": "Getting Started with Event Driven UI",
+		   "path": "Excel\\INFO 1234\\Week 2\\INFO1234 Getting Started with Event Driven UI.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 2,
+		   "name": "Lab 1 Explanation",
+		   "path": "Excel\\INFO 1234\\Week 2\\Lab1Explanation.mp4",
+		   "fileType": "Video",
+		   "type": "Lab",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 2,
+		   "name": "Lecture: Arrays and For Loops",
+		   "path": "Excel\\INFO 1234\\Week 2\\ArraysForLoops.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 2,
+		   "name": "Lecture: Getting Started with Event Driven UI",
+		   "path": "Excel\\INFO 1234\\Week 2\\EventDrivenUI.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 2,
+		   "name": "Lecture: Objects",
+		   "path": "Excel\\INFO 1234\\Week 2\\ObjectIntro.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 2,
+		   "name": "Objects",
+		   "path": "Excel\\INFO 1234\\Week 2\\INFO1234 Objects (Intro).pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 3,
+		   "name": "Constructors Examples",
+		   "path": "Excel\\INFO 1234\\Week 3\\ConstructorsExamples.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 3,
+		   "name": "Methods Examples",
+		   "path": "Excel\\INFO 1234\\Week 3\\MethodsExamples.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 4,
+		   "name": "AJAX",
+		   "path": "Excel\\INFO 1234\\Week 4\\INFO1234 AJAX.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 4,
+		   "name": "AJAX Lecture",
+		   "path": "Excel\\INFO 1234\\Week 4\\AJAXRecording.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 4,
+		   "name": "Coding Examples",
+		   "path": "Excel\\INFO 1234\\Week 4\\CodingExamples\\",
+		   "fileType": "Code",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 4,
+		   "name": "Coding Examples Explanation",
+		   "path": "Excel\\INFO 1234\\Week 4\\CodingExamplesExplanation.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 4,
+		   "name": "Lab 2",
+		   "path": "Excel\\INFO 1234\\Week 4\\Lab 2.pdf",
+		   "fileType": "PDF",
+		   "type": "Lab",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 4,
+		   "name": "Lab 2 Explanation",
+		   "path": "Excel\\INFO 1234\\Week 4\\Lab2Explanation.mp4",
+		   "fileType": "Video",
+		   "type": "Lab",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 4,
+		   "name": "Midterm",
+		   "path": "Excel\\INFO 1234\\Week 4\\INFO1234 Midterm.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lab",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 4,
+		   "name": "Midterm Explanation",
+		   "path": "Excel\\INFO 1234\\Week 4\\INFO1234 Midterm.pptx",
+		   "fileType": "Video",
+		   "type": "Lab",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 4,
+		   "name": "Project 1",
+		   "path": "Excel\\INFO 1234\\Week 4\\INFO1234 Project1_Summer_2022.pdf",
+		   "fileType": "PDF",
+		   "type": "Lab",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 4,
+		   "name": "Project 1 Explanation",
+		   "path": "Excel\\INFO 1234\\Week 4\\Project1Explanation.mp4",
+		   "fileType": "Video",
+		   "type": "Lab",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 5,
+		   "name": "Coding Examples",
+		   "path": "Excel\\INFO 1234\\Week 5\\Coding Examples.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 5,
+		   "name": "Lecture: UI Control and Animation",
+		   "path": "Excel\\INFO 1234\\Week 5\\UI Control and Animation.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 1234",
+		   "week": 5,
+		   "name": "UI Control and Animation",
+		   "path": "Excel\\INFO 1234\\Week 5\\INFO1234 UI Control and Animation1.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 1,
+		   "name": "1.1 Course Intro",
+		   "path": "Excel\\INFO 3134\\Week 1\\{1.1} Course Introduction-n1.1.0.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 1,
+		   "name": "1.2 Intro to OOP",
+		   "path": "Excel\\INFO 3134\\Week 1\\{1.2} Introduction to OOP-n1.1.0.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 1,
+		   "name": "File: Circle Demo",
+		   "path": "Excel\\INFO 3134\\Week 1\\Class Files\\CircleDemo\\",
+		   "fileType": "Code",
+		   "type": "Code",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 1,
+		   "name": "Lecture 1",
+		   "path": "Excel\\INFO 3134\\Week 1\\GMT20220505-191236_Recording_1920x1080.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 1,
+		   "name": "Lecture 2",
+		   "path": "Excel\\INFO 3134\\Week 1\\GMT20220506-203147_Recording_1920x1080.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 1,
+		   "name": "Classes & Objects",
+		   "path": "Excel\\INFO 3134\\Week 1\\INFO3134 W2022 Unit 1-1 UPDATED JAN 7 2022 Intro to Classes and Objects.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 2,
+		   "name": "File: Shapes",
+		   "path": "Excel\\INFO 3134\\Week 2\\Class Files\\Shapes.png",
+		   "fileType": "Image",
+		   "type": "Code",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 2,
+		   "name": "File: Shapes Hierarchy",
+		   "path": "Excel\\INFO 3134\\Week 2\\Class Files\\Shapes Hierarchy.xml",
+		   "fileType": "Code",
+		   "type": "Code",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 2,
+		   "name": "File: Shapes.xml",
+		   "path": "Excel\\INFO 3134\\Week 2\\Class Files\\Shapes.xml",
+		   "fileType": "Code",
+		   "type": "Code",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 2,
+		   "name": "File: ShapesDemo",
+		   "path": "Excel\\INFO 3134\\Week 2\\Class Files\\ShapesDemo\\",
+		   "fileType": "Code",
+		   "type": "Code",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 2,
+		   "name": "File: ShapesDemo Full",
+		   "path": "Excel\\INFO 3134\\Week 2\\Class Files\\ShapesDemo Full\\",
+		   "fileType": "Code",
+		   "type": "Code",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 2,
+		   "name": "Lecture 1",
+		   "path": "Excel\\INFO 3134\\Week 2\\GMT20220508-171656_Recording_1920x1080.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 2,
+		   "name": "Lecture 2",
+		   "path": "Excel\\INFO 3134\\Week 2\\GMT20220509-013446_Recording_1920x1080.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 2,
+		   "name": "Constructors, Accessors & Mutators",
+		   "path": "Excel\\INFO 3134\\Week 2\\INFO3134 W2022 Unit 1-2  UPDATED JAN 7 2022 Constructors, Accessors, Mutators.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 2,
+		   "name": "Inheritance",
+		   "path": "Excel\\INFO 3134\\Week 2\\INFO3134 W2022 Unit 1-3 UPDATED JAN 7 2022 Inheritance Intro.pptx",
+		   "fileType": "PowerPoint",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 3,
+		   "name": "Lecture 1",
+		   "path": "Excel\\INFO 3134\\Week 3\\GMT20220514-165634_Recording_1936x1080.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 3,
+		   "name": "Lecture 2",
+		   "path": "Excel\\INFO 3134\\Week 3\\W3C2.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 4,
+		   "name": "Account UML Diagram",
+		   "path": "Excel\\INFO 3134\\Week 4\\AccountUmlDiagram.png",
+		   "fileType": "Image",
+		   "type": "Code",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 4,
+		   "name": "Week 4 Class 1 Lecture",
+		   "path": "Excel\\INFO 3134\\Week 4\\w4c1.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "Yes"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 4,
+		   "name": "Week 4 Class 2 Lecture",
+		   "path": "Excel\\INFO 3134\\Week 4\\w4c2.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 5,
+		   "name": "GSON 2.9.0",
+		   "path": "Excel\\INFO 3134\\Week 5\\gson-2.9.0\\",
+		   "fileType": "Files",
+		   "type": "Code",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 5,
+		   "name": "Lecture 1",
+		   "path": "Excel\\INFO 3134\\Week 5\\GMT20220523-144520_Recording_1936x1074.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 5,
+		   "name": "Lecture 2",
+		   "path": "Excel\\INFO 3134\\Week 5\\GMT20220523-165622_Recording_1936x1074.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 6,
+		   "name": "GATS Notes on Java Exceptions",
+		   "path": "Excel\\INFO 3134\\Week 6\\GATS Notes on Java Exceptions (inclass).docx",
+		   "fileType": "Word",
+		   "type": "Tutorial",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 6,
+		   "name": "Lecture 1",
+		   "path": "Excel\\INFO 3134\\Week 6\\Lec 1.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "No"
+		 },
+		 {
+		   "course": "INFO 3134",
+		   "week": 6,
+		   "name": "Lecture 2",
+		   "path": "Excel\\INFO 3134\\Week 6\\Lec 2.mp4",
+		   "fileType": "Video",
+		   "type": "Lesson",
+		   "complete": "No"
+		 }
+		]
